@@ -56,11 +56,11 @@ Construir um banco de dados relacional otimizado, incluindo:
 ---
 
 ## 📂 **Estrutura do Repositório**  
+- `README.md`: Este arquivo.  
 - `database_schema.sql`: Estrutura do banco de dados com tabelas e relacionamentos.  
 - `sample_data.sql`: Dados fictícios para testes e exemplos.  
 - `queries.sql`: Exemplos de consultas para relatórios e análises avançadas.  
-- `README.md`: Este arquivo.  
-
+- `erd_diagram`: https://drive.google.com/file/d/1j9NVAmK1iBKq2BaZiZMNEVF_EwOloMAw/view?usp=sharing
 ---
 
 ## 🚀 **Próximos Passos**  
